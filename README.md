@@ -8,19 +8,19 @@ If you are looking for a more basic guide, please check [Consensys's Best Practi
 - [Practices](#practices)
 - [Optimization](#optimization)
 - [Security](#security)
-- [Advanced EVM](#advanced)
+- [Advanced-EVM](#advanced-evm)
 
 ### Practices
 
 
 ### Optimization
-- [Save gas by encoding your entire struct into a single uin256](https://medium.com/@novablitz/storing-structs-is-costing-you-gas-774da988895e)
-- [In-depth look at how storage is organized.](https://medium.com/@hayeah/diving-into-the-ethereum-vm-part-2-storage-layout-bc5349cb11b7)
+- [Save gas by encoding your entire struct into a single uin256](https://medium.com/@novablitz/storing-structs-is-costing-you-gas-774da988895e) - by [NovaBlitz](https://medium.com/@novablitz)
+- [In-depth look at how storage is organized](https://medium.com/@hayeah/diving-into-the-ethereum-vm-part-2-storage-layout-bc5349cb11b7) - by [Howard from 0xb4](https://medium.com/@hayeah)
 
 ### Security  
  
 
-### Advanced EVM
+### Advanced-EVM
 
 
 
