@@ -3,6 +3,8 @@ A smorgasbord of essential information to help educate about the inner workings 
 
 If you are looking for a more basic guide, please check [Consensys's Best Practices Repository](https://github.com/ConsenSys/smart-contract-best-practices) and [bkrem's Awesome Solidity Repository](https://github.com/bkrem/awesome-solidity), slightly more advanced information can also be found at the [BlockchainNZ's Awesome Solidity Repository](https://github.com/BlockchainLabsNZ/awesome-solidity).
 
+If you're looking for more EVM related content, please check [Ethereum's EVM Awesome List](https://github.com/ethereum/wiki/wiki/Ethereum-Virtual-Machine-(EVM)-Awesome-List) for a general listing of EVM tools and information.
+
 
 ### Contents
 - [Practices](#practices)
